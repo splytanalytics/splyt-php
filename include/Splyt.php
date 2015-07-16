@@ -41,7 +41,7 @@ class Splyt
      * @var string Constant used to signify an unsuccessful result from Splyt transactions
      */
     const TXN_ERROR='error';
-    
+
     const TIMEOUT_MODE_TRANSACTION = "TXN";
     const TIMEOUT_MODE_ANY = "ANY";
 
@@ -66,7 +66,7 @@ class Splyt
      * Either a user id or device id must be specified.  And if the PHP SDK is used in conjunction
      * with a client SDK, it is important for these ids to be provided consistently.
      *
-     * @param string $customerId Splyt customerId provided by Row Sham Bow, Inc.
+     * @param string $customerId Splyt customerId provided by Knetik, Inc.
      * @param string $userId (optional) A unique id specific to the user of the app, if such a concept exists
      * @param string $deviceId (optional) A unique id specific to an install/instance of the app, typically representing the client device
      * @return Splyt Used to communicate with the Splyt framework
