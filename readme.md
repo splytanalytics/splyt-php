@@ -54,8 +54,3 @@ The Splyt tuning system drives A/Z testing and dynamic tuning.  It is easy to se
 To run samples, simply copy the folder containing the sample under your webroot and launch the included index.html.
 
 - BubblePop - This sample application is a simple [Shell Game] (http://en.wikipedia.org/wiki/Shell_game) that demonstrates basic integration of both data collection and tuning & testing.  It incorporates Splyt's session and purchasing plugins.
-
-<!-- dirty trick to get doxygen to auto-copy this file for us -->
-<div style="display: none;">
-\image html SplytSDKLogoFooter.png
-</div>
